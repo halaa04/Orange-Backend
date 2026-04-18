@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\user\Desktop\Orange-Backend\C#\2.method,LINQ\obj\Debug\net9.0\ref\ConsoleApp.dll
