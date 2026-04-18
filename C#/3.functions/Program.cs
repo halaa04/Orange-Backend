@@ -83,8 +83,159 @@ class Program
         
         return (double)sum / nums.Length;  
     }
-    ///////////////// function 2 ///////////////////
+    ///////////////// function 3 ///////////////////
+    //1
+    static Func<int, int> Add(int a)
+    {
+        return delegate (int x)
+        {
+            return a + x;
+        };
     
+    }
+    //2
+    static string RemoveLeadingTrailing (string s)
+    {
+        decimal number = decimal.Parse(s);
+        return number.ToString("G29");
+    }
+    //3
+    static int SecNum(int[] nums)
+    {
+        Array.Sort(nums);
+        return nums[nums.Length - 2];
+    }
+    //4
+    static bool IsRepdigit (int n)
+    {
+        if (n < 0) return false;
+        string s=  n.ToString();
+        foreach (char c in s)
+        {
+            if (c != s[0]) return false;
+        }
+        return true;
+    }
+    //5
+    static string ReverseWords(string s)
+    {
+        string[] words = s.Trim().Split(' ');  
+        Array.Reverse(words);                 
+        return string.Join(" ", words);      
+    }
+    //6
+    static string SevenBoom(int[] nums)
+    {
+        foreach (int num in nums)
+        {
+            string s = num.ToString();    
+            foreach (char c in s)
+              if (c == '7') return "Boom!";  
+        }
+        return "there is no 7 in the array";  
+    }
+    //7
+    static string InsertWhitespace(string s)
+    {
+        string result = "";
+        for (int i = 0; i < s.Length; i++)
+        {
+            result += s[i];                          
+
+            if (i + 1 < s.Length &&
+                char.IsLower(s[i]) &&                 
+                char.IsUpper(s[i + 1]))               
+                result += " ";                        
+            
+        }
+        return result;
+    }
+    //8 
+    static int CountTrue(bool[] arr)
+    {
+        int count = 0;
+        foreach (bool b in arr)
+            if (b == true) count++;
+        return count;
+    }
+    //9
+    static string CapToFront(string s)
+    {
+        string caps = "";
+        string lower = "";
+        foreach (char c in s)
+        {
+            if (char.IsUpper(c)) caps += c;  
+            else lower += c;  
+        }
+        return caps + lower;  
+    }
+    //10
+    static bool MatchLastItem(object[] arr)
+    {
+        string last = arr[arr.Length - 1].ToString();  
+        string rest = "";
+        for (int i = 0; i < arr.Length - 1; i++)
+            rest += arr[i].ToString();                 
+        return last == rest;
+    }
+    //11
+    static int FindNaN(double[] arr)
+    {
+        for (int i = 0; i < arr.Length; i++)
+            if (double.IsNaN(arr[i])) return i;  
+        return -1;                               
+    }
+    //12
+    static object[] RemoveDups(object[] arr)
+    {
+        List<object> result = new List<object>();
+        foreach (object item in arr)
+            if (!result.Contains(item))   
+                result.Add(item);
+        return result.ToArray();
+    }
+    //13
+    static string ConvertTime(string time)
+    {
+        int hours = int.Parse(time.Substring(0, 2));
+        string mins = time.Substring(3, 2);
+        string secs = time.Substring(6, 2);
+        string ampm = time.Substring(8, 2);
+
+        if (ampm == "PM" && hours != 12) hours += 12;  // PM → add 12
+        if (ampm == "AM" && hours == 12) hours = 0;  // 12AM → 0
+
+        return hours.ToString("D2") + ":" + mins + ":" + secs;
+    }
+    //14
+    static string RemoveLastVowel(string sentence)
+    {
+        string[] words = sentence.Split(' ');
+        for (int i = 0; i < words.Length; i++)
+        {
+            string w = words[i];
+            for (int j = w.Length - 1; j >= 0; j--)  
+            {
+                if ("aeiouAEIOU".Contains(w[j]))      
+                {
+                    words[i] = w.Remove(j, 1);         
+                    break;
+                }
+
+            }
+        }
+        return string.Join(" ", words);
+    }
+    //15
+    static double SumOfCubes(int[] nums)
+    {
+        double sum = 0;
+        foreach (int n in nums)
+            sum += Math.Pow(n, 3);   
+        return sum;
+    }
+
 
     static void Main(string[] args)   
     {
@@ -109,12 +260,50 @@ class Program
         Console.WriteLine(string.Join(", ", powerResult));
 
         Console.WriteLine(Multiplication2(3, 5));
-        Console.ReadLine();
 
         int[] numsAve = { 1, 2, 3, 8, 9, 77 };
         Console.WriteLine(AveArray(numsAve));
 
+        ///////////////////////////////////////////////
+        
+        Func<int, int> add10 = Add(10);
+        Console.WriteLine(add10(20));
 
+        Console.WriteLine(RemoveLeadingTrailing(0223.00);
+
+        Console.WriteLine(SecNum(numsAve));
+
+        Console.WriteLine(IsRepdigit(66));
+
+        Console.WriteLine(ReverseWords("hello  world! "));
+
+        Console.WriteLine(InsertWhitespace("HelloWorld"));
+
+        bool[] bools = { true, false, false, true, false };
+        Console.WriteLine(CountTrue(bools));                        
+
+     
+        Console.WriteLine(CapToFront("hApPy"));                       
+
+        object[] arr1 = { "rsq", "6hi", "g", "rsq6hig" };
+        Console.WriteLine(MatchLastItem(arr1));                       // False
+
+        double[] nan1 = { 1, 2, double.NaN };
+        Console.WriteLine(FindNaN(nan1));                             // -1
+
+        object[] dup1 = { 1, 0, 1, 0 };
+        Console.WriteLine(string.Join(", ", RemoveDups(dup1)));     
+
+        Console.WriteLine(ConvertTime("07:05:45PM"));                 
+    
+        Console.WriteLine(RemoveLastVowel("Those who dare to fail")); 
+
+        int[] cubes = { 1, 5, 9 };
+        Console.WriteLine(SumOfCubes(cubes));                         // 855
+        Console.ReadLine();
     }
     
 }
+
+
+
