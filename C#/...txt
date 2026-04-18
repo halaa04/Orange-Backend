@@ -1,0 +1,2 @@
+cd "C:\Users\user\Desktop\Orange-Backend\C#"
+dotnet new console -n 4.newFile
