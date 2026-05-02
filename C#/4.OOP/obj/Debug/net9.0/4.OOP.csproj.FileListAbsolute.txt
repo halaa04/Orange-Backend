@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Orange-Backend\C#\4.OOP\obj\Debug\net9.0\4.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-Backend\C#\4.OOP\obj\Debug\net9.0\4.OOP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-Backend\C#\4.OOP\obj\Debug\net9.0\4.OOP.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-Backend\C#\4.OOP\obj\Debug\net9.0\4.OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-Backend\C#\4.OOP\obj\Debug\net9.0\4.OOP.sourcelink.json
