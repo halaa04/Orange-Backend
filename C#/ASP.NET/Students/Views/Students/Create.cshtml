@@ -1,0 +1,18 @@
+﻿@model StudentsCRUD.Models.Student
+
+<h2>Add New Student</h2>
+
+<form method="post">
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+    <div>
+        <label>Age</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+    <button type="submit">Save</button>
+    <a href="/Students">Cancel</a>
+</form>
