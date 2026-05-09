@@ -1,0 +1,15 @@
+﻿<h2>Add New Category</h2>
+
+<form method="post" action="/Category/Create" enctype="multipart/form-data">
+    <div>
+        <label>Name:</label>
+        <input type="text" name="Name" required />
+    </div>
+    <br />
+    <div>
+        <label>Image:</label>
+        <input type="file" name="ImageFile" accept="image/*" />
+    </div>
+    <br />
+    <button type="submit">Save</button>
+</form>

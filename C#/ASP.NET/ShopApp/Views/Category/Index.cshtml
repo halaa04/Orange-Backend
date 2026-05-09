@@ -1,0 +1,27 @@
+﻿@model List<ShopApp.Models.Category>
+
+<div style="text-align:center; margin-top:30px;">
+    <h2>Categories</h2>
+    <a href="/Category/Create">+ Add New Category</a>
+    <br /><br />
+    <table border="1" cellpadding="10" cellspacing="0" style="margin: 0 auto;">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Image</th>
+        </tr>
+        @foreach (var cat in Model)
+        {
+            <tr>
+                <td>@cat.Id</td>
+                <td>@cat.Name</td>
+                <td>
+                    @if (cat.ImagePath != null)
+                    {
+                        <img src="@cat.ImagePath" width="80" height="80" />
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+</div>

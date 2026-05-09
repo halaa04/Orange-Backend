@@ -1,0 +1,30 @@
+﻿<h2>Add New Product</h2>
+
+<form method="post" action="/Product/Create" enctype="multipart/form-data">
+    <div>
+        <label>Name:</label>
+        <input type="text" name="Name" required />
+    </div>
+    <br />
+    <div>
+        <label>Price:</label>
+        <input type="number" name="Price" step="0.01" required />
+    </div>
+    <br />
+    <div>
+        <label>Category:</label>
+        <select name="CategoryId">
+            @foreach (var cat in ViewBag.Categories)
+            {
+                <option value="@cat.Id">@cat.Name</option>
+            }
+        </select>
+    </div>
+    <br />
+    <div>
+        <label>Image:</label>
+        <input type="file" name="ImageFile" accept="image/*" />
+    </div>
+    <br />
+    <button type="submit">Save</button>
+</form>

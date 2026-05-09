@@ -1,0 +1,31 @@
+﻿@model List<ShopApp.Models.Product>
+
+<div style="text-align:center; margin-top:30px;">
+    <h2>Products</h2>
+    <a href="/Product/Create">+ Add New Product</a>
+    <br /><br />
+    <table border="1" cellpadding="10" cellspacing="0" style="margin: 0 auto;">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Image</th>
+        </tr>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.CategoryId</td>
+                <td>
+                    @if (product.ImagePath != null)
+                    {
+                        <img src="@product.ImagePath" width="80" height="80" />
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+</div>
