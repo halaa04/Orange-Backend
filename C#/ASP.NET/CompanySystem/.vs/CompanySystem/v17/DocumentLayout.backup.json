@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\viewmodels\\registeremployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:viewmodels\\registeremployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\companysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:companysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Migrations\\20260504121218_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260504121218_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\models\\employeetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:models\\employeetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|c:\\users\\user\\desktop\\orange-backend\\c#\\asp.net\\companysystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461C026-6BE3-4CE7-BCBF-CC9D863D4BED}|CompanySystem.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:26:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:26:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:25:46.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T12:25:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:24:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:09:33.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\ViewModels\\RegisterEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\ViewModels\\RegisterEmployeeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterEmployeeViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:23:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:23:10.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanySystem",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\CompanySystem.csproj",
+              "RelativeDocumentMoniker": "CompanySystem.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\CompanySystem.csproj",
+              "RelativeToolTip": "CompanySystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T12:22:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260504121218_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Migrations\\20260504121218_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260504121218_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Migrations\\20260504121218_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260504121218_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:12:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T12:09:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:08:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "Models\\ContactMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:07:43.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeTask.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\EmployeeTask.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeTask.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\EmployeeTask.cs",
+              "RelativeToolTip": "Models\\EmployeeTask.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:06:31.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:05:03.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-Backend\\C#\\ASP.NET\\CompanySystem\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:02:33.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
